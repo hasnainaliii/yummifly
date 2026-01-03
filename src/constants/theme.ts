@@ -9,7 +9,7 @@ export const Colors = {
   muted: "#666",
 };
 
-export const fonts = {
+export const Fonts = {
   bold: "Cause-Bold",
   medium: "Cause-Medium",
   regular: "Cause-Regular",
